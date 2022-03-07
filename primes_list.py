@@ -1,4 +1,4 @@
-#function returns if number is prime
+#function returns list of primes
 def list_primes(x):
     n = 1
     primes_list = []
